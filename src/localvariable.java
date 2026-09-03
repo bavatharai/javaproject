@@ -5,5 +5,7 @@ public class localvariable {
 		System.out.println("bava");
 	}
 
+	
 }
+
 
