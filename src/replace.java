@@ -6,3 +6,4 @@ public class replace {
 		System.out.println(number.replace("93123","73012"));
 	}
 }
+
