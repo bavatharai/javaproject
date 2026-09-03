@@ -13,9 +13,6 @@ public class datatype {
 	System.out.println(weight);
 	boolean this_text_button_display = false;
 	System.out.println(this_text_button_display);
-	
-	
-	
 }
 }
 
